@@ -14,3 +14,4 @@
 * [Git - система контроля версий](https://github.com/pno666/pno666/blob/main/Kaplan_A_git.pdf)
 * [Java для тестировщиков](https://github.com/pno666/pno666/blob/main/Kaplan_A_Java.pdf)
 * [Автоматизированное тестирование веб-приложение](https://github.com/pno666/pno666/blob/main/Kaplan_A_automatization.pdf)
+* [Свидетельство о прохождении обучения](https://github.com/pno666/pno666/blob/main/Kaplan_A_Svid.pdf)
