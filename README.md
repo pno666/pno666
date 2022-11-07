@@ -7,7 +7,7 @@
 * [Selenide](https://github.com/pno666/oadz4)
 * Ручное тестирование веб-приложений, [Курсовая работа](https://docs.google.com/spreadsheets/d/1VM7bH8v1RWJWZkR5wHxdzt2RH4MSjhQCo2dgq5hNRys/edit#gid=0)
 * [BDD](https://github.com/pno666/oadz6)
-* Настривать [CI](https://netology.ru/profile/program/aqa-39/lessons/198358/lesson_items/1047414)
+* Настройка [CI](https://netology.ru/profile/program/aqa-39/lessons/198358/lesson_items/1047414)
 #### Все выполненые работы можно посмотреть [тут](https://github.com/pno666?tab=repositories)
 ### Сертификаты нетологии
 * [Ручное тестирование веб-приложений](https://github.com/pno666/pno666/blob/main/Kaplan_A_manual.pdf)
