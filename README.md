@@ -10,3 +10,7 @@
 * Настривать [CI](https://netology.ru/profile/program/aqa-39/lessons/198358/lesson_items/1047414)
 #### Все выполненые работы можно посмотреть [тут](https://github.com/pno666?tab=repositories)
 ### Сертификаты нетологии
+* [Ручное тестирование веб-приложений](https://github.com/pno666/pno666/blob/main/Kaplan_A_manual.pdf)
+* [Git - система контроля версий](https://github.com/pno666/pno666/blob/main/Kaplan_A_git.pdf)
+* [Java для тестировщиков](https://github.com/pno666/pno666/blob/main/Kaplan_A_Java.pdf)
+* [Автоматизированное тестирование веб-приложение](https://github.com/pno666/pno666/blob/main/Kaplan_A_automatization.pdf)
