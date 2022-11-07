@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**pno666/pno666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Привет!
+Я Каплан Антон, тестировщик ПО
+### Вот, что я умею
+* Авто-тесты, [Репозиторий с дипломной работой](https://github.com/pno666/diplom)
+* [Docker и docker-compose](https://github.com/pno666/oadz7) 
+* [SQL](https://github.com/pno666/oadz8) (MySQL, PostgreSQL)
+* [Selenide](https://github.com/pno666/oadz4)
+* Ручное тестирование веб-приложений, [Курсовая работа](https://docs.google.com/spreadsheets/d/1VM7bH8v1RWJWZkR5wHxdzt2RH4MSjhQCo2dgq5hNRys/edit#gid=0)
+* [BDD](https://github.com/pno666/oadz6)
+* Настривать [CI](https://netology.ru/profile/program/aqa-39/lessons/198358/lesson_items/1047414)
+#### Все выполненые работы можно посмотреть [тут](https://github.com/pno666?tab=repositories)
+### Сертификаты нетологии
